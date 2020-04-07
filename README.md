@@ -1,4 +1,5 @@
-# Last weather conditions of a city using Weather Company API of IBM Cloud
+# Weather search engine using Weather Company API of IBM Cloud
+Weather search engine that shows last weather conditions of a city using Weather Company API of IBM Cloud.
 
 ## Description
 Python app that show some weather conditions in the last 24 hours of a city using the weather company API rest of IBM Cloud.
